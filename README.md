@@ -1,13 +1,3 @@
-<h4 align="center">
-     
-> “Trust me, sweetheart, donating now is a hell of a lot cheaper than paying for your own damned soul later.” — John Constantine (probably)
-
-[![Donate XMR](https://img.shields.io/badge/Donate-XMR-FFA500?style=flat&logo=monero)](monero:82XUSZ3q2zpSt89HLhpSRGVD72Jf8vrfhjgijBFmDbgX26M9HgeAou2dQ8mqi3eoUAXWYNLorrgHNCH15oZDSuznMcZQeWr?recipient_name=Kia&tx_description=PersianBlocker)
-
-`82XUSZ3q2zpSt89HLhpSRGVD72Jf8vrfhjgijBFmDbgX26M9HgeAou2dQ8mqi3eoUAXWYNLorrgHNCH15oZDSuznMcZQeWr`
-
-</h3>
-
 <h1 align="center">
      
 [![FSF - Free Software Foundation](https://img.shields.io/badge/FSF-Free_Software_Foundation-brightgreen)](https://www.fsf.org/)          [![Donate to FSF](https://img.shields.io/badge/Donate%20to%20FSF-%234E9A06?style=flat)](https://www.fsf.org/donate) 
@@ -21,18 +11,13 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/MasterKia/PersianBlocker?style=social&logo=github&label=Stars)          
+![GitHub Repo stars](https://img.shields.io/github/stars/PersianBlocker/PersianBlocker?style=social&logo=github&label=Stars)          
 
-[![jsDelivr Stats](https://data.jsdelivr.com/v1/package/gh/MasterKia/PersianBlocker/badge)](https://www.jsdelivr.com/package/gh/MasterKia/PersianBlocker?tab=stats)
+[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FRePersianBlocker)](https://telegram.dog/RePersianBlocker)
 
+GitHub Discussions: https://github.com/PersianBlocker/PersianBlocker/discussions
 
-[![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FPersianBlocker)](https://telegram.dog/PersianBlocker)         [![Matrix](https://img.shields.io/matrix/PersianBlocker%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix)](https://matrix.to/#/#PersianBlocker:matrix.org)
-
-GitHub Discussions: https://github.com/MasterKia/PersianBlocker/discussions/49
-
-Telegram Group: [@PersianBlocker](https://telegram.dog/PersianBlocker)
-
-Matrix Room: https://matrix.to/#/#PersianBlocker:matrix.org
+Telegram Group: [@RePersianBlocker](https://telegram.dog/RePersianBlocker)
 
 
 </h1>
@@ -268,6 +253,3 @@ Brave Browser
 
 Related link: https://github.com/brave/adblock-resources/blob/50d0a69fbfbe6e2f0a50b6e1535a32b6e853688a/filter_lists/list_catalog.json#L682-L698
 ***
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=MasterKia/PersianBlocker&type=date&legend=top-left)](https://www.star-history.com/#MasterKia/PersianBlocker&type=date&legend=top-left)
