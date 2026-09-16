@@ -85,3 +85,4 @@ web.bale.ai##div[data-sentry-component^="SuggestedBots"]
 
 ! gapgpt.app (خود-تبلیغی):
 gapgpt.app##.limit-box
+gapgpt.app##.android-install-prompt
