@@ -449,3 +449,6 @@ mobileweb.bankmellat.ir##.noSelect:style(-webkit-touch-callout: default !importa
 
 ! bama.ir:
 ||bama.ir/uploads/BamaImages/CampaignBanner^
+
+! maktabkhooneh.org:
+maktabkhooneh.org##div:has(> a[rel="sponsored"])
