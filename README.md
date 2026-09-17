@@ -13,6 +13,9 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PersianBlocker/PersianBlocker?style=social&logo=github&label=Stars)          
 
+[![jsDelivr Stats](https://data.jsdelivr.com/v1/package/gh/PersianBlocker/PersianBlocker/badge)](https://www.jsdelivr.com/package/gh/PersianBlocker/PersianBlocker?tab=stats)
+
+
 [![Telegram Group](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FRePersianBlocker)](https://telegram.dog/RePersianBlocker)
 
 GitHub Discussions: https://github.com/PersianBlocker/PersianBlocker/discussions
