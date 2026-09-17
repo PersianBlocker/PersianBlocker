@@ -3,11 +3,11 @@
 ! Last modified: Wed, 29 Apr 2026 20:36:17 +0330
 ! Expires: 5 days
 ! Description: Filters to block ads in Persian websites on mobile browsers
-! License: https://codeberg.org/KhodeKiaa/PersianBlocker/src/branch/main/LICENSE
-! Homepage: https://codeberg.org/KhodeKiaa/PersianBlocker
+! License: https://github.com/PersianBlocker/PersianBlocker/blob/main/LICENSE
+! Homepage: https://github.com/PersianBlocker/PersianBlocker
 !
-! GitHub issues: https://codeberg.org/KhodeKiaa/PersianBlocker/issues
-! GitHub pull requests: https://codeberg.org/KhodeKiaa/PersianBlocker/pulls
+! GitHub issues: https://github.com/PersianBlocker/PersianBlocker/issues
+! GitHub pull requests: https://github.com/PersianBlocker/PersianBlocker/pulls
 
 
 ! General !
