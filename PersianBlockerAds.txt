@@ -253,12 +253,12 @@ yasdl.com##.sidebar-textads
 downloadha.com##.popup-ads
 downloadha.com##.ads
 
-! varzesh3.com:
-||biz-cdn.varzesh3.com/banners^
-varzesh3.com##.adbox
-varzesh3.com##[data-ad]
-! video.varzesh3.com:
-||biz.varzesh3.com/vast^
+! varzesh3.ir:
+||biz-cdn.varzesh3.ir/banners^
+varzesh3.ir##.adbox
+varzesh3.ir##[data-ad]
+! video.varzesh3.ir:
+||biz.varzesh3.ir/vast^
 
 ! faraazin.ir:
 ||faraazin.ir/api/setting/banners^
