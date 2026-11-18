@@ -1,5 +1,4 @@
 # Title: PersianBlockerAnnoyances-Domains
-# Last modified: %timestamp%
 # Expires: 7 days
 # Description: Filters to block annoyances in Persian websites 
 # License: https://github.com/PersianBlocker/PersianBlocker/blob/main/LICENSE

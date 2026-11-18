@@ -1,6 +1,4 @@
-[AdBlock]
 # Title: PersianBlockerAds-Hosts
-# Last modified: %timestamp%
 # Expires: 5 days
 # Description: Filters to block ads in Persian websites 
 # License: https://github.com/PersianBlocker/PersianBlocker/blob/main/LICENSE
@@ -41,7 +39,7 @@
 0.0.0.0 ads.karzar.net
 
 # pelikan.media (e.g. sharghdaily.com):
-0.0.0.0  pelikan-network.ir
+0.0.0.0 pelikan-network.ir
 
 # rokna.net:
 0.0.0.0 binoads.ir

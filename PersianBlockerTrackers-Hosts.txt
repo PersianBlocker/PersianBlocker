@@ -1,6 +1,4 @@
-[AdBlock]
 # Title: PersianBlockerTrackers-Hosts
-# Last modified: %timestamp%
 # Expires: 7 days
 # Description: Filters to block trackers in Persian websites 
 # License: https://github.com/PersianBlocker/PersianBlocker/blob/main/LICENSE

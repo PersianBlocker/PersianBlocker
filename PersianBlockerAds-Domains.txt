@@ -1,5 +1,4 @@
 # Title: PersianBlockerAds-Domains
-# Last modified: %timestamp%
 # Expires: 5 days
 # Description: Filters to block ads in Persian websites 
 # License: https://github.com/PersianBlocker/PersianBlocker/blob/main/LICENSE
